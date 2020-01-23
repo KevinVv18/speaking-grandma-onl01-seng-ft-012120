@@ -20,6 +20,8 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase == phrase.upcase
  "NO, NOT SINCE 1938!"
  
+else 
+  
 
 end 
 
