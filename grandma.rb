@@ -18,5 +18,5 @@ if
   phrase == "Hi Nana, how are you?"
 puts "HUH?! SPEAK UP, SONNY!"
 
-
+end 
 end  
