@@ -1,4 +1,3 @@
-# Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
@@ -11,3 +10,9 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+def speak_to_grandma(phrase)
+  phrase= "I love you grandma!".upcase
+"I love you too pumpkin".upcase
+
+end  
