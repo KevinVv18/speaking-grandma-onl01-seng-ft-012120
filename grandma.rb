@@ -20,6 +20,6 @@ puts "HUH?! SPEAK UP, SONNY!"
 
 elsif
 
-phrase ==
+phrase == "WHAT?"
 
 end  
