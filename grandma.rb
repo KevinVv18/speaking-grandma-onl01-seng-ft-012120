@@ -18,5 +18,8 @@ if
   phrase == "Hi Nana, how are you?"
 puts "HUH?! SPEAK UP, SONNY!"
 
-end 
+elsif
+
+phrase ==
+
 end  
